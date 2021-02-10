@@ -1,0 +1,13 @@
+npm init -y
+npm install express mongoose cors dotenv bcrypt express-fileupload jimp uuid --save
+npm install nodemon
+npm install nodemon --dev
+
+
+
+
+git init
+git commit -m "first commit"
+git remote add origin https://github.com/lucasmdf07/olix.git
+git push -u origin main
+git push --set-upstream origin master
